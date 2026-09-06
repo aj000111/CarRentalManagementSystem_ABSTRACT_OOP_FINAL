@@ -1,4 +1,5 @@
-namespace CarRentalManagementSystem
+```csharp
+// namespace CarRentalManagementSystem
 {
     internal static class Program
     {
@@ -15,3 +16,6 @@ namespace CarRentalManagementSystem
         }
     }
 }
+
+// My GitHub test
+```
