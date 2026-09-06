@@ -1,6 +1,7 @@
 namespace CarRentalManagementSystem.Models
 {
-    public abstract class Vehicle
+    // Base class for all vehicle types
+       public abstract class Vehicle
     {
         public int VehicleID { get; set; }
 
